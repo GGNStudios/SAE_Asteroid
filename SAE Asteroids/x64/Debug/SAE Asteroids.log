@@ -1,0 +1,10 @@
+﻿  main_App.cpp
+c:\users\ggn studios\documents\visual studio 2015\projects\sae asteroids\sae asteroids\boundingbox.h(8): warning C4005: 'M_PI': macro redefinition
+  c:\users\ggn studios\documents\visual studio 2015\projects\sae asteroids\sae asteroids\main_app.cpp(11): note: see previous definition of 'M_PI'
+c:\users\ggn studios\documents\visual studio 2015\projects\sae asteroids\sae asteroids\player.h(4): warning C4005: 'M_PI': macro redefinition
+  c:\users\ggn studios\documents\visual studio 2015\projects\sae asteroids\sae asteroids\boundingbox.h(8): note: see previous definition of 'M_PI'
+c:\users\ggn studios\documents\visual studio 2015\projects\sae asteroids\sae asteroids\main_app.cpp(159): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ggn studios\documents\visual studio 2015\projects\sae asteroids\sae asteroids\main_app.cpp(169): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ggn studios\documents\visual studio 2015\projects\sae asteroids\sae asteroids\main_app.cpp(177): warning C4305: '+=': truncation from 'double' to 'float'
+  SAE Asteroids.vcxproj -> C:\Users\GGN Studios\documents\visual studio 2015\Projects\SAE Asteroids\x64\Debug\SAE Asteroids.exe
+  SAE Asteroids.vcxproj -> C:\Users\GGN Studios\documents\visual studio 2015\Projects\SAE Asteroids\x64\Debug\SAE Asteroids.pdb (Partial PDB)

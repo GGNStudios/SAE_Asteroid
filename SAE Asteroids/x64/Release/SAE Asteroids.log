@@ -1,0 +1,78 @@
+﻿  Camera.cpp
+c:\users\ggnstudios\documents\visual studio 2015\projects\sae asteroids\sae asteroids\Camera.h(2): fatal error C1083: Cannot open include file: 'glm.hpp': No such file or directory
+  Entity.cpp
+c:\users\ggnstudios\documents\visual studio 2015\projects\sae asteroids\sae asteroids\Entity.h(2): fatal error C1083: Cannot open include file: 'glm.hpp': No such file or directory
+  main_App.cpp
+main_App.cpp(2): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Mesh.cpp
+c:\users\ggnstudios\documents\visual studio 2015\projects\sae asteroids\sae asteroids\mesh.h(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  ObjLoader.cpp
+c:\users\ggnstudios\documents\visual studio 2015\projects\sae asteroids\sae asteroids\ObjLoader.h(3): fatal error C1083: Cannot open include file: 'glm.hpp': No such file or directory
+  Player.cpp
+c:\users\ggnstudios\documents\visual studio 2015\projects\sae asteroids\sae asteroids\Entity.h(2): fatal error C1083: Cannot open include file: 'glm.hpp': No such file or directory
+  Shader.cpp
+c:\users\ggnstudios\documents\visual studio 2015\projects\sae asteroids\sae asteroids\Shader.h(5): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  stb_image.cpp
+stb_image.cpp(294): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(303): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(343): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+stb_image.cpp(366): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+stb_image.cpp(505): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+stb_image.cpp(518): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+stb_image.cpp(591): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(629): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+stb_image.cpp(647): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(1564): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(1593): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(1611): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(2605): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(2730): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(2736): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(2745): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(2747): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(2756): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(2792): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(2796): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(2818): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(2821): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(2832): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(2872): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3072): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3083): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3087): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3267): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3271): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3279): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3287): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3300): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3317): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3321): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3469): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3497): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3508): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3509): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3523): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3542): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3560): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3571): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3581): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3608): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3609): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3826): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3830): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3836): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3848): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3877): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3885): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3902): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3935): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(3969): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+stb_image.cpp(4082): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+stb_image.cpp(4091): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+stb_image.cpp(4096): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+stb_image.cpp(4100): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+stb_image.cpp(4150): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+  Texture.cpp
+c:\users\ggnstudios\documents\visual studio 2015\projects\sae asteroids\sae asteroids\Texture.h(4): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Transform.cpp
+c:\users\ggnstudios\documents\visual studio 2015\projects\sae asteroids\sae asteroids\Transform.h(3): fatal error C1083: Cannot open include file: 'glm.hpp': No such file or directory
